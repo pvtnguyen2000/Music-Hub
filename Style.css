@@ -1,0 +1,22 @@
+* {
+  font-family: "Playwrite GB J", cursive;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Heading {
+  height: 150px;
+  background-color: #1f150c;
+  color: #e1dcc9;
+  padding-top: 25px;
+  padding-left: 50px;
+}
+.Title img {
+  height: 50px;
+  margin-right: 20px;
+  border-radius: 50%;
+  border-color: solid #e1dcc9;
+}
+.Title {
+  display: flex;
+}
